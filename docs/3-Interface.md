@@ -24,7 +24,7 @@
 > páginas. Um wireframe web é uma ilustração semelhante do
 > layout de elementos fundamentais na interface.
 
-![Exemplo de Wireframe](images/exemplo-wireframe.png)
+![Exemplo de Wireframe](images/wireframe-exemplo.png)
 
 [Ferramentas de Wireframes](https://rockcontent.com/blog/wireframes/)
 [MarvelApp](https://marvelapp.com/developers/documentation/tutorials/)
