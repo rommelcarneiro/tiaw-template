@@ -7,7 +7,14 @@
 > fato existir, pois ainda não é a hora de apresentar requisitos
 > detalhados ou projetos.
 
+> Nesse momento, o grupo pode optar por fazer uso
+> de ferramentas como Design Thinking, que permite um olhar de ponta a
+> ponta para o problema.
+> - Links Úteis:
+> - [Matriz Certezas, Suposições e Dúvidas] (https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
+> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
 
+----
 ## Público-Alvo
 
 > Descreva quem serão as pessoas que usarão a sua aplicação indicando os
@@ -21,6 +28,11 @@
 > textual, ou diagramas de personas, mapa de stakeholders, ou como o
 > grupo achar mais conveniente.
 
+> - Links Úteis:
+> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
+> - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
+
+----
 ## Objetivos
 
 > Aqui você deve descrever os objetivos do trabalho indicando que o
@@ -29,9 +41,14 @@
 > específicos dependendo de onde você vai querer concentrar a sua
 > prática investigativa, ou como você vai aprofundar no seu trabalho.
 
+----
 ## Justificativa
 
 > Descreva a importância ou a motivação para trabalhar com esta aplicação
 > que você escolheu. Indique as razões pelas quais você escolheu seus
 > objetivos específicos ou as razões para aprofundar em certos aspectos
 > do software.
+
+> O grupo de trabalho pode fazer uso de questionários, entrevistas e
+> dados estatísticos, que podem ser apresentados, com o objetivo de
+> esclarer detalhes do problema que será abordado pelo grupo.
