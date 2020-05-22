@@ -14,8 +14,9 @@
 
 ![Exemplo de UserFlow](images/userflow.jpg)
 
-[User Flow: O Quê É e Como Fazer?](https://medium.com/7bits/fluxo-de-usu%C3%A1rio-user-flow-o-que-%C3%A9-como-fazer-79d965872534)
-[User Flow vs Site Maps](http://designr.com.br/sitemap-e-user-flow-quais-as-diferencas-e-quando-usar-cada-um/)
+- Links Úteis:
+- [User Flow: O Quê É e Como Fazer?](https://medium.com/7bits/fluxo-de-usu%C3%A1rio-user-flow-o-que-%C3%A9-como-fazer-79d965872534)
+- [User Flow vs Site Maps](http://designr.com.br/sitemap-e-user-flow-quais-as-diferencas-e-quando-usar-cada-um/)
 
 
 ## Wireframes
@@ -24,7 +25,8 @@
 > páginas. Um wireframe web é uma ilustração semelhante do
 > layout de elementos fundamentais na interface.
 
-![Exemplo de Wireframe](images/wireframe-exemplo.png)
+![Exemplo de Wireframe](images/wireframe-example.png)
 
-[Ferramentas de Wireframes](https://rockcontent.com/blog/wireframes/)
-[MarvelApp](https://marvelapp.com/developers/documentation/tutorials/)
+- Links Úteis:
+- [Ferramentas de Wireframes](https://rockcontent.com/blog/wireframes/)
+- [MarvelApp](https://marvelapp.com/developers/documentation/tutorials/)
