@@ -14,6 +14,7 @@
 >
 > Links Úteis:
 > - [Tutorial GitHub](https://guides.github.com/activities/hello-world/)
+> - [Git e Github](https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
 
 A ferramenta de controle de versão adotada no projeto foi o
 [Git](https://git-scm.com/), sendo que o [Github](https://github.com)
