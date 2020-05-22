@@ -26,7 +26,7 @@ que aceitem alunos estrangeiros.
 
 > Apresente aqui as histórias de usuário que são relevantes para o
 > projeto de sua solução. As Histórias de Usuário consistem em uma
-> ferramente poderosa para a compreensão e elicitação dos requisitos
+> ferramenta poderosa para a compreensão e elicitação dos requisitos
 > funcionais e não funcionais da sua aplicação. Se possível, agrupe as
 > histórias de usuário por contexto, para facilitar consultas
 > recorrentes à essa parte do documento.
@@ -48,7 +48,7 @@ que aceitem alunos estrangeiros.
 >
 > - [Requisitos Não Funcionais
 >   (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
->   correspondem a  uma característica técnica, seja de usabilidade,
+>   correspondem a uma característica técnica, seja de usabilidade,
 >   desempenho, confiabilidade, segurança ou outro (ex: suporte a
 >   dispositivos iOS e Android).
 >
@@ -68,7 +68,7 @@ que aceitem alunos estrangeiros.
 
 |ID     | Descrição do Requisito  |
 |-------|-------------------------|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móveis |
+|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel |
 |RNF-002| Deve processar requisições do usuário em no máximo 3s |
 
 ## Restrições

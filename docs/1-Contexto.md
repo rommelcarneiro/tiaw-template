@@ -50,4 +50,4 @@
 
 > O grupo de trabalho pode fazer uso de questionários, entrevistas e
 > dados estatísticos, que podem ser apresentados, com o objetivo de
-> esclarer detalhes do problema que será abordado pelo grupo.
+> esclarecer detalhes do problema que será abordado pelo grupo.

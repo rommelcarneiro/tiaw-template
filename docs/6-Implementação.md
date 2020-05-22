@@ -3,7 +3,7 @@
 ## Tecnologias Utilizadas
 
 > Descreva aqui qual(is) tecnologias você vai usar para resolver o seu
-> problema, ou seja implementar a sua solução. Liste todas as
+> problema, ou seja, implementar a sua solução. Liste todas as
 > tecnologias envolvidas, linguagens a serem utilizadas, serviços web,
 > frameworks, bibliotecas, IDEs de desenvolvimento, e ferramentas.
 > Apresente também uma figura explicando como as tecnologias estão
@@ -32,16 +32,16 @@ escolher para editar sua foto de perfil. Ao selecionar essa opção, ele é
 redirecionado para a Tela 3, onde ele a imagem expandida do perfil do
 usuário é mostrado. Ao selecionar a opção para atualizar a imagem, uma
 nova janela abre pedindo para o usuário fazer o upload da nova foto.
-Assim que o processo termina um popup exibe o status para o usuário
+Assim que o processo termina um pop-up exibe o status para o usuário
 (Tela 4) e o usuário é redirecionado para a Tela 2.
 
 Caso o usuário opte seguir pelo segundo caminho (Visualizar Galeria) ele
-é redirecionado ara a Tela 5 com todas as fotos que o usuário possui. O
+é redirecionado para a Tela 5 com todas as fotos que o usuário possui. O
 usuário pode clicar em um post qualquer para visualizar os detalhes do
 post (Tela 6). Nessa tela, ele pode então escolher editar o post, sendo
 redirecionado para a Tela 7. Ao editar as informações, o usuário pode
 escolher salvar ou deletar o post. Em ambos os casos o status é
-notificado para o usuário (Tela 8) e em seguida o mesmo é redirecionado
+notificado para o usuário (Tela 8) e em seguida ele é redirecionado
 para a Tela 2.
 
 ![Exemplo de UserFlow](images/userflow.jpg)

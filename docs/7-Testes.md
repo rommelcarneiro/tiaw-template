@@ -8,7 +8,7 @@
 
 > Enumere quais cenários de testes foram selecionados para teste. Neste
 > tópico o grupo deve detalhar quais funcionalidades avaliadas, o grupo
-> de usuários que foi escolhido para participar do teste e também as
+> de usuários que foi escolhido para participar do teste e as
 > ferramentas utilizadas.
 
 - Links Úteis:
