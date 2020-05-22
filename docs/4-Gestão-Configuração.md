@@ -43,3 +43,4 @@ etiquetas:
 > - [Crie seu Site com o
 >   HostGator](https://www.hostgator.com.br/como-publicar-seu-site)
 > - [GoDady](https://br.godaddy.com/how-to)
+> - [GitHub Pages](https://pages.github.com/)
