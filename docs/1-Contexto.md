@@ -1,5 +1,6 @@
 # Introdução
 
+## Problema
 > Nesse momento você deve apresentar o problema que a sua aplicação deve
 > resolver. No entanto, não é a hora de comentar sobre a aplicação.
 > Descreva também o contexto em que essa aplicação será usada, se
@@ -10,9 +11,10 @@
 > Nesse momento, o grupo pode optar por fazer uso
 > de ferramentas como Design Thinking, que permite um olhar de ponta a
 > ponta para o problema.
-> - Links Úteis:
-> - [Matriz Certezas, Suposições e Dúvidas] (https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+
+- Links Úteis:
+- [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
+- [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
 
 ----
 ## Público-Alvo
@@ -28,9 +30,9 @@
 > textual, ou diagramas de personas, mapa de stakeholders, ou como o
 > grupo achar mais conveniente.
 
-> - Links Úteis:
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
+- Links Úteis:
+- [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
+- [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
 
 ----
 ## Objetivos
